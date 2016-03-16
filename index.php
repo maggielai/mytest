@@ -1,5 +1,7 @@
 <?php
  echo 1;
 public function static getInfo(){
-echo 222;
+var_dump(1234);
+echo 123;
+
 }
