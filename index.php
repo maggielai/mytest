@@ -13,3 +13,6 @@ public static function getTwo(){
 }
 publlic static function getThree(){
 }
+
+public static fucntion postone(){
+}
