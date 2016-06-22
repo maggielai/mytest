@@ -16,3 +16,6 @@ publlic static function getThree(){
 
 public static fucntion postone(){
 }
+
+public static fuction posttwo(){
+}
