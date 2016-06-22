@@ -11,6 +11,7 @@ public static function getTwo(){
 
 
 }
-
+public function getooo(){
+}
 publlic static function getThree(){
 }
