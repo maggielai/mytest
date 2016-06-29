@@ -19,3 +19,7 @@ public static fucntion postone(){
 
 public static fuction posttwo(){
 }
+
+public static function postthree(){
+}
+
