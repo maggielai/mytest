@@ -5,7 +5,7 @@ public function postone(){
 }
 
 public function posttwo(){
- echo 111;
+echo 222;
 return 111;
 }
 
