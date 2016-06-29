@@ -1,0 +1,18 @@
+<?php
+
+public function postone(){
+
+}
+
+public function posttwo(){
+<<<<<<< HEAD
+echo 222;
+=======
+ echo 333;
+ echo 222;
+>>>>>>> tijiao
+return 111;
+}
+
+public function postfour(){
+}
